@@ -2,7 +2,7 @@
 
 #### Hi to everyone! 
 My full name is Ronald Dolores Guardia. I'm 22 years old.
-I'm a student actually. I'm studying Systems Engineer, I'm in the 9th cycle.
+I'm a student actually. I'm studying Systems engineering, I'm in the 9th cycle.
 
 This page will be used to upload my projects.
 
